@@ -1,0 +1,14 @@
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Explainable AI
+shap
+
+# Dashboard
+streamlit
